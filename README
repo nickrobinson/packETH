@@ -1,3 +1,10 @@
+Install Instructions:
+./configure
+make
+sudo make install
+
+Note: Make sure /usr/local/bin is mapped in your path
+
 packETH-1.8 (C) 2003-2014 by Miha Jemec, <jemcek@gmail.com>
 Covered under the GPL.
 
