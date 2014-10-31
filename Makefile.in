@@ -230,6 +230,7 @@ pixmaps = \
   src/pixmaps/save.xpm \
   src/pixmaps/save16.xpm  \
   src/pixmaps/send.xpm \
+  src/pixmaps/switch.xpm \
   src/pixmaps/X.xpm
 
 pixmapdir = $(pkgdatadir)/pixmaps
